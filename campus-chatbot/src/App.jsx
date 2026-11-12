@@ -21,7 +21,7 @@ FACILITIES & SCHEDULES:
 - Python Workshop: Every Friday at 2:00 PM in Innovation Hall, Room 105. Completely free. Open to beginners.
 - Campus Library: 2nd Floor, Innovation Hall. Open Mon-Sat 7:00 AM - 9:00 PM.
 - Student Cafeteria: Student Center Ground Floor. Serves lunch from 11:30 AM to 2:30 PM.
-- my name is Nikko A. Jarabelo
+- my name is Lynie Joy B. Canton 
 `;
 
 export default function CampusChatbot() {
